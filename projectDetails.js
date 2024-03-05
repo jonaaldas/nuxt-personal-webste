@@ -6,7 +6,8 @@ const projects = [
 		stack: 'Nuxt 3, TS, Tailwind, DaisiUI, Mysql, AWS SES',
 		url: 'https://cute-kataifi-536829.netlify.app',
 		github: 'https://www.github.com/',
-		image: '/'
+		image: '/',
+		ready: false
 	},
 	{
 		id: 2,
@@ -16,7 +17,8 @@ const projects = [
 		stack: 'VueJS, JS, Node, HONO, Tailwindcss',
 		url: 'https://roammis.com',
 		github: 'https://www.github.com/',
-		image: '/'
+		image: '/',
+		ready: false
 	},
 	{
 		id: 3,
@@ -25,7 +27,8 @@ const projects = [
 		stack: 'COBRA',
 		url: 'https://roammis.com',
 		github: 'https://www.github.com/',
-		image: '/'
+		image: '/',
+		ready: false
 	},
 	{
 		id: 4,
@@ -34,16 +37,18 @@ const projects = [
 		stack: 'GO, Go Fiber, HTTP GO',
 		url: 'https://roammis.com',
 		github: 'https://www.github.com/',
-		image: '/'
+		image: '/',
+		ready: false
 	},
 	{
 		id: 5,
 		title: 'Rate the Raunt',
 		description: 'Simple full stack app to rate restaurants. My girlfriend and I love to eat so I build this small app for us to rate restaurants when we go out.',
 		stack: 'Vuejs, Supabase, Postgres, TailwindCSS, DaisiUI',
-		url: 'https://roammis.com',
-		github: 'https://www.github.com/',
-		image: '/'
+		url: 'https://elaborate-moxie-e19b3f.netlify.app/',
+		github: 'https://github.com/jonaaldas/Restaurant-App',
+		image: '/img/rate_the_raunt.jpeg',
+		ready: true
 	},
 	{
 		id: 6,
@@ -52,7 +57,8 @@ const projects = [
 		stack: 'Vuejs, Supabase, Postgres, TailwindCSS, DaisiUI',
 		url: 'https://roammis.com',
 		github: 'https://www.github.com/',
-		image: '/'
+		image: '/',
+		ready: false
 	}
 ];
 
