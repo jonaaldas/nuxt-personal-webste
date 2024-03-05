@@ -10,10 +10,6 @@
 </template>
 
 <script setup lang="ts">
-	import Projects from '@/components/Projects.vue';
-	import Loader from '@/components/Loader.vue';
-	import Blog from '@/components/Blog.vue';
-	import Hero from '@/components/Hero.vue';
 	import {ref, onMounted} from 'vue';
 
 	const showLoader = ref(true);

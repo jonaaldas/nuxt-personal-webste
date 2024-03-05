@@ -13,8 +13,7 @@
 							{{ project.stack }}
 						</span>
 						<div class="card-actions justify-end">
-							<button class="btn btn-ghost"><a :href="`${project.github}`" target="_blank">Github</a></button>
-							<button class="btn btn-neutral"><a :href="`${project.url}`" target="_blank">Live URL</a></button>
+							<span class="badge p-3 text-black ring bg-secondary">Coming Soon</span>
 						</div>
 					</div>
 				</div>

@@ -3,7 +3,7 @@
 		<NuxtLayout>
 			<NavBar />
 			<NuxtPage />
-			<Footer class="sticky top-[100vh]" />
+			<Footer />
 		</NuxtLayout>
 	</div>
 </template>

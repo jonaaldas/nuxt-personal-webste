@@ -1,5 +1,8 @@
 <template>
 	<div class="container m-auto">
+		<div v-if="!post" class="flex justify-center items-center">
+			<SmallLoader />
+		</div>
 		<div v-if="post" class="w-2/3 m-auto">
 			<h1 class="text-2xl mb-8">{{ post.title }}</h1>
 			<div v-html="post?.content.html" class="space-y-4"></div>
