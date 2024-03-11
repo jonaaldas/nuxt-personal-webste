@@ -1,8 +1,8 @@
 <template>
-	<div class="container flex-row flex">
-		<div class="w-2/4">
-			<h1 class="text-xl lg:text-2xl">Hey!</h1>
-			<p class="text-lg lg:text-xl">
+	<div class="container md:flex-row md:flex">
+		<div class="md:w-2/4">
+			<h1 class="text-center text-xl lg:text-2xl md:text-left">Hey!</h1>
+			<p class="text-center text-lg lg:text-xl md:text-left">
 				Jonathan here and I am a passionate Vue.js and Nuxt.js developer with a strong foundation in modern web development technologies including Node.js, JavaScript, Tailwind CSS, KOA, and
 				an emerging interest in
 				<span class="text-[#01ADD8]">Go.</span>
@@ -10,7 +10,7 @@
 				particularly with Vue.js and Nuxt.js, allowing me to craft beautiful applications.
 			</p>
 		</div>
-		<div class="w-2/4 mt-auto flex flex-row justify-end gap-5">
+		<div class="mt-8 justify-center md:w-2/4 md:mt-auto flex md:flex-row md:justify-end gap-5">
 			<a href="https://www.x.com/aldasdev" class="cursor-pointer" target="_blank" title="X">
 				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-8 fill-white">
 					<path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z" />
