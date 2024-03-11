@@ -6,11 +6,21 @@ const projects = [
 		stack: 'Nuxt 3, TS, Tailwind, DaisiUI, Mysql, AWS SES',
 		url: 'https://cute-kataifi-536829.netlify.app',
 		github: 'https://www.github.com/',
-		image: '/',
-		ready: false
+		image: '/img/roammies.png',
+		ready: true
 	},
 	{
 		id: 2,
+		title: 'Rate the Raunt',
+		description: 'Simple full stack app to rate restaurants. My girlfriend and I love to eat so I build this small app for us to rate restaurants when we go out.',
+		stack: 'Vuejs, Supabase, Postgres, TailwindCSS, DaisiUI',
+		url: 'https://elaborate-moxie-e19b3f.netlify.app/',
+		github: 'https://github.com/jonaaldas/Restaurant-App',
+		image: '/img/rate_the_raunt.jpeg',
+		ready: true
+	},
+	{
+		id: 3,
 		title: 'Twiiter Chrome Extension',
 		description:
 			'A simple to use chrome extension to tweet super fast from anywhere in the browser. I love X (twitter) but when i go to the website i get distracted so I built this tool to do that.',
@@ -21,7 +31,7 @@ const projects = [
 		ready: false
 	},
 	{
-		id: 3,
+		id: 4,
 		title: 'Go CLI database backer',
 		description: 'A simple CLI tool that ...',
 		stack: 'COBRA',
@@ -31,7 +41,7 @@ const projects = [
 		ready: false
 	},
 	{
-		id: 4,
+		id: 5,
 		title: 'Linear and Github Sync Tool',
 		description: 'A simple server app built in GO that syncs github labels PR with Linear App',
 		stack: 'GO, Go Fiber, HTTP GO',
@@ -39,16 +49,6 @@ const projects = [
 		github: 'https://www.github.com/',
 		image: '/',
 		ready: false
-	},
-	{
-		id: 5,
-		title: 'Rate the Raunt',
-		description: 'Simple full stack app to rate restaurants. My girlfriend and I love to eat so I build this small app for us to rate restaurants when we go out.',
-		stack: 'Vuejs, Supabase, Postgres, TailwindCSS, DaisiUI',
-		url: 'https://elaborate-moxie-e19b3f.netlify.app/',
-		github: 'https://github.com/jonaaldas/Restaurant-App',
-		image: '/img/rate_the_raunt.jpeg',
-		ready: true
 	},
 	{
 		id: 6,

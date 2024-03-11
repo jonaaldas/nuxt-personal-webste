@@ -5,9 +5,9 @@
 			<p class="text-lg lg:text-xl">
 				Jonathan here and I am a passionate Vue.js and Nuxt.js developer with a strong foundation in modern web development technologies including Node.js, JavaScript, Tailwind CSS, KOA, and
 				an emerging interest in
-				<span class="text-[#01ADD8]">Go</span>
-				. My expertise lies in creating dynamic, responsive web applications that prioritize user experience and performance. Through my projects, I've honed my skills in front-end
-				development, particularly with Vue.js and Nuxt.js, allowing me to craft beautiful applications.
+				<span class="text-[#01ADD8]">Go.</span>
+				My expertise lies in creating dynamic, responsive web applications that prioritize user experience and performance. Through my projects, I've honed my skills in front-end development,
+				particularly with Vue.js and Nuxt.js, allowing me to craft beautiful applications.
 			</p>
 		</div>
 		<div class="w-2/4 mt-auto flex flex-row justify-end gap-5">
@@ -23,11 +23,9 @@
 					/>
 				</svg>
 			</a>
-			<a href="" class="cursor-pointer" target="_blank" title="Resume">
-				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-8 fill-white">
-					<path
-						d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32V274.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7V32zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V416c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352H64zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"
-					/>
+			<a href="https://docs.google.com/document/d/1OdUHj-IjmC5_vTXtF_r15cqcKJ4cxeZ43eEjcFAY2q0/edit?usp=sharing" class="cursor-pointer" target="_blank" title="Resume">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" class="w-8 fill-white h-8" title="Resume">
+					<path d="M0 64C0 28.7 28.7 0 64 0H224V128c0 17.7 14.3 32 32 32H384V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V64zm384 64H256V0L384 128z" />
 				</svg>
 			</a>
 		</div>

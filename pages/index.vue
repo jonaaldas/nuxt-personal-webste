@@ -1,5 +1,5 @@
 <template>
-	<div class="flex justify-center flex-col items-center">
+	<div class="flex justify-center flex-col items-center space-y-3">
 		<Hero />
 		<Projects />
 		<Blog />
