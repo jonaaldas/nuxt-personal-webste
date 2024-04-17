@@ -3,10 +3,10 @@
 		<Hero />
 		<Projects />
 		<Blog />
-		<transition name="fade">
-			<Loader v-if="showLoader" class="fixed top-0 left-0 w-full h-screen z-50 bg-black" />
-		</transition>
 	</div>
+	<transition name="fade">
+		<Loader v-if="showLoader" class="m-0 fixed top-0 left-0 w-full h-screen z-50 bg-black" />
+	</transition>
 </template>
 
 <script setup lang="ts">
