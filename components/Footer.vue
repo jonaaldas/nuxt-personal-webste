@@ -5,7 +5,7 @@
 				<h1>ALDAS</h1>
 			</aside>
 			<nav class="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
-				<p>Built by Aldas</p>
+				<p>Made by 🚀 Aldas</p>
 			</nav>
 		</div>
 	</footer>

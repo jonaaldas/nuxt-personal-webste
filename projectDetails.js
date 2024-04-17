@@ -24,11 +24,11 @@ const projects = [
 		title: 'Twiiter Chrome Extension',
 		description:
 			'A simple to use chrome extension to tweet super fast from anywhere in the browser. I love X (twitter) but when i go to the website i get distracted so I built this tool to do that.',
-		stack: 'VueJS, JS, Node, HONO, Tailwindcss',
-		url: 'https://roammis.com',
-		github: 'https://www.github.com/',
-		image: '/',
-		ready: false
+		stack: 'Nuxt 3, Tailwind, Turso',
+		url: 'https://x-chrome-extension.vercel.app/',
+		github: 'https://github.com/jonaaldas/x-chrome-extension',
+		image: '/img/x_chrome_extension.png',
+		ready: true
 	},
 	{
 		id: 4,
