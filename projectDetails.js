@@ -5,7 +5,7 @@ const projects = [
 		description: 'A data base that helps digital nomad families with kids find local short term daycares all around the world.',
 		stack: 'Nuxt 3, TS, Tailwind, DaisiUI, Mysql, AWS SES',
 		url: 'https://cute-kataifi-536829.netlify.app',
-		github: 'https://www.github.com/',
+		github: 'https://github.com/jonaaldas/roammies-portfolio',
 		image: '/img/roammies.png',
 		ready: true
 	},
