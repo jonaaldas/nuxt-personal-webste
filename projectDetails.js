@@ -7,7 +7,7 @@ const projects = [
 		url: 'https://cute-kataifi-536829.netlify.app',
 		github: 'https://github.com/jonaaldas/roammies-portfolio',
 		image: '/img/roammies.png',
-		ready: true
+		ready: false
 	},
 	{
 		id: 2,
